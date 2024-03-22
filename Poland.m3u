@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,(PL)_TVS
+http://146.59.54.163/TVS/index.m3u8
+#EXTINF:-1,(PL)_Filmbox Extra
+http://146.59.54.163/FilmBox-Extra-HD/index.m3u8
+#EXTINF:-1,(PL)_Filmbox Premium
+http://146.59.54.163/Filmbox-Premium-HD/index.m3u8
+#EXTINF:-1,(PL)_Travel
+http://146.59.54.163/Travel-Channel-HD/index.m3u8
+#EXTINF:-1,(PL)_TLC
+http://146.59.54.163/TLC-HD/index.m3u8
+#EXTINF:-1,(PL)_TVP Historia
+http://146.59.54.163/history2/index.m3u8
+#EXTINF:-1,(PL)_FightBox
+http://146.59.54.163/Fightbox-Premium-HD/index.m3u8
+#EXTINF:-1,(PL)_MTV
+http://146.59.54.163/MTV-Rocks-HD/index.m3u8
+#EXTINF:-1,(PL)_DeeJay
+http://146.59.54.163/VH1/index.m3u8
